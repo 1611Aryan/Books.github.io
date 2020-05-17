@@ -43,7 +43,7 @@ body
 #links
 {
 	padding:0px 20px 20px;
-	font-size: 1.2em;
+	font-size: 1.1em;
 
 }
 ul
@@ -58,7 +58,7 @@ ul
 	content:"💡"; 
 	margin-left:-15px;
 	margin-right: 20px;
-    font-size: 1.35em;
+    font-size: 1.15em;
 }
 li
 {
@@ -67,8 +67,8 @@ li
 a
 {
 	text-decoration: none;
-	font-size:1.3em;
-	font-weight: 100;
+	font-size:1.2em;
+	font-weight: 150;
 }
 a:link {
   color: #000000;
