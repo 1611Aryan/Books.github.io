@@ -1,0 +1,53 @@
+@charset "utf-8";
+/* CSS Document */
+body
+{
+	padding:0px;
+	margin:0px;
+	background-color:#dcdcdc;
+	font-size:100%;
+}
+#Logo
+{
+	display:block;
+	margin-top: auto;
+	margin-left: auto;
+	margin-right: auto;
+	max-width:50%;
+	
+}
+#links
+{
+	padding:0px 20px 20px;
+	font-size: 1.2em;
+	float:left;
+}
+ul.deco
+{
+	list-style-type: none;
+}
+
+li::before
+{
+	content:"📚"; 
+	margin-right: 20px;
+    font-size: 1.35em;
+}
+a
+{
+	text-decoration: none;
+	font-size:1.2em;
+	font-weight: 100;
+}
+a:link {
+  color: #000000;
+}
+a:visited {
+  color: #002D3A;
+}
+a:hover {
+  color: #cc3366;
+}
+a:active {
+  color: #cc3366;
+}
