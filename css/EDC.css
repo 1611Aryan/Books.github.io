@@ -4,13 +4,11 @@ body
 {
 	
 	margin:0px;
-	background-color:#dcdcdc;
+	background-color:#36648b;
 	
 }
 #navBar
 {
-	
-	max-height: auto;
 	position: sticky;
 	top:0;
 }
@@ -20,7 +18,7 @@ body
 	padding:0px;
 	margin: 0px;
 	overflow:hidden;
-	background-color: #A4A4A4;
+	background-color: #003366;
 }
 .pos
 {
