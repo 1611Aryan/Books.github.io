@@ -7,6 +7,25 @@ body
 	background-color:#dcdcdc;
 	
 }
+#navBar
+{
+	
+	max-height: auto;
+	position: sticky;
+	top:0;
+}
+.nav
+{
+	list-style-type: none;
+	padding:0px;
+	margin: 0px;
+	overflow:hidden;
+	background-color: #A4A4A4;
+}
+.pos
+{
+	padding:10px;
+}
 #Logo
 {
 	padding-top: 20px;
@@ -19,6 +38,7 @@ body
 .size
 {
 	max-width:80%;
+	max-height: 100px;
 }
 #links
 {
@@ -26,12 +46,12 @@ body
 	font-size: 1.2em;
 
 }
-ul.deco
+ul
 {
 	list-style-type: none;
 }
 
-li::before
+.light::before
 {
 	
 	
