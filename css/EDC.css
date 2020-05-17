@@ -39,6 +39,10 @@ li::before
 	margin-right: 20px;
     font-size: 1.35em;
 }
+li
+{
+	padding:5px 0px;
+}
 a
 {
 	text-decoration: none;
